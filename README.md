@@ -17,20 +17,29 @@
 
  
 ## Step 2: Train and Evaluate LeNet without Fusion 
-Dataset Preparation:
-Training 
-Evaluation 
-![image](https://github.com/user-attachments/assets/25c38a63-f9c0-4806-8651-64a6fdd7053e)
+1. Dataset Preparation:
+
+
+2. Training 
+
+
+3. Evaluation 
+![image](https://github.com/user-attachments/assets/f0c99e68-7764-4257-bb52-36b4b6d5aec7)
+
 
 
 ## Step 3: Implementing fusion Strategy
 1. Low-Level Fusion:
 
+
 a.Pixel-based Average Fusion: It involves directly combining the pixel values of the three images and take average value to create a new, fused image.
+
+
 b. Pixel-based Maximum Fusion: It involves directly combining the pixel values of the three images and take maximum value to create a new, fused image.
+
+
 c. Pixel-based Minimum Fusion: It involves directly combining the pixel values of the three images and take minimum value to create a new, fused image.
 
-![image](https://github.com/user-attachments/assets/cf56c429-1131-41f7-99e7-f5ca35130600)
 
 ![image](https://github.com/user-attachments/assets/c77a6c23-3213-4b3c-ba10-bbabe200ef7f)
 
