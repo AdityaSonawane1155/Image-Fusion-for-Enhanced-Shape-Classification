@@ -1,6 +1,6 @@
 # Image-Fusion-for-Enhanced-Shape-Classification
  ## Introduction
- In this report, a low and high level fusion strategy is used to improve the classification
+ In this task, a low and high level fusion strategy is used to improve the classification
  performance of a synthetic dataset. The 1000 instances in the dataset each have three
  32x32 images that represent one of the four geometric shapes (pentagon, circle, square, or
  triangle). Three distinct background types—gradient, noise, and spotlight—are used to
@@ -10,6 +10,19 @@
  trained and evaluated on fused image dataset obtained from the defined fusion strategy.
  Finally the increased accuracy of the CNN model is achieved for the shape classification
  task. At the end confusion matrices are plot to demonstrate these accuracies.
+
+ Dataset Overview :
+
+ 
+  Image 1 - Gradient background 
+ 
+  
+  Image 2 - Noise background 
+  
+  
+  Image 3 - Spotlight background
+
+
 
 
  ##  Step 1: Change LeNet5 Architecture
