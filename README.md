@@ -1,4 +1,4 @@
-# Image-Fusion-for-Enhanced-Shape-Classification
+# Multi-Model Image Fusion for Enhanced Shape Classification using CNN Architecture
  ## Introduction
  In this task, a low and high level fusion strategy is used to improve the classification
  performance of a synthetic dataset. The 1000 instances in the dataset each have three
